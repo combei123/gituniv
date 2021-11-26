@@ -1,4 +1,4 @@
-# Titlu Master/Develop
+# Titlu Master/Magie/Develop
 
 ## Subtitlu master
 
